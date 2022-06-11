@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1",
+    "yargs": "^17.5.1"
+  },
+  "name": "w9---sequelize",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicLMCR/SEQUELIZE-ASSOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicLMCR/SEQUELIZE-ASSOC/issues"
+  },
+  "homepage": "https://github.com/RicLMCR/SEQUELIZE-ASSOC#readme",
+  "devDependencies": {}
+}
